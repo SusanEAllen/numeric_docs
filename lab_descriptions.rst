@@ -52,7 +52,7 @@ _____________________________
 Lab 3: Linear algebra
 _____________________
 
-The assignment for undergrads and grads is `here <pdf_files/numeric_assignment3_2015.pdf>`_
+The assignment for undergrads and grads is `here <pdf_files/numeric_assignment3.pdf>`_
 
 * If you want to read the lab offline, here are:
 

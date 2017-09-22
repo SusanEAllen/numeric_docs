@@ -8,6 +8,8 @@ rsync -avz _build/* piphome:/home/phil/public_html/numeric/.
 rsync -avz $numdocs/pdf_create/_build/*pdf $numdocs/pdf_files/.
 rsync -avz $numdocs/pdf_files/* $numdocs/pdf_files/.
 rsync -avz $numdocs/html_files/* $numdocs/html_files/.
+cp $numdocs/labs/lab3/numeric_assignment3.pdf $numdocs/pdf_files/.
+cp $numdocs/docs/miniproject1.pdf $numdocs/pdf_files/.
 #
 # now copy to server
 #

@@ -106,8 +106,7 @@ covered in the quizzes.
 
    -  Estimate: 8 hours
 
-   -  Quiz #1 Objectives [2]_ pertaining to Lab 1 sections 4-6 (3-5
-      for 2017)
+   -  Quiz #1 Objectives [2]_ pertaining to Lab 1 sections 4-6
 
    -  Quiz #2 Objectives pertaining to Lab 1 and Lab 2 sections 4-5.
 
@@ -119,7 +118,7 @@ covered in the quizzes.
 
    -  Quiz #2 Objectives pertaining to Lab 1 and Lab 2 sections 4-5.
 
-   -  Quiz #3 Objectives pertaining to Lab 2 and Lab 3 section 3.
+   -  Quiz #3 Objectives pertaining to Lab 2 and Lab 3 section 4.
 
    -  Assignment: See web.
 
@@ -127,7 +126,7 @@ covered in the quizzes.
 
    -  Estimate: 8 hours
 
-   -  Quiz #3 Objectives pertaining to Lab 2 and Lab 3 section 3.
+   -  Quiz #3 Objectives pertaining to Lab 2 and Lab 3 section 4.
 
    -  Quiz #4 Objectives pertaining to Lab 3.
 

@@ -1,9 +1,13 @@
 \documentclass[12pt]{article}
 \usepackage{geometry}
-\geometry{letterpaper,top=50pt,hmargin={20mm,20mm},headheight=15pt} 
+\geometry{letterpaper,top=30pt,hmargin={20mm,20mm},headheight=15pt} 
 
 \input{../../docs/def}
 \begin{document}
+
+\begin{flushright}
+{\small \today}
+\end{flushright}
 
 \subsection*{Miniproject \# 1 for ATSC 409: Arctic Ocean Near Surface Temperature Maximum}
 
@@ -26,7 +30,7 @@ then less stratified water.  Assume an eddy-viscosity or mixing
 coefficient ($A_h$) of the form
 
 \begin{eqnarray}
- A_{max}, & d < h \\ 
+ A_{max}, & d < h \\
 A_{depth} + \left[A_{max}-A_{depth}-A_{dip}(d-h)\right] \exp \left[-0.5(d-h)\right], & d > h.
 \end{eqnarray}
 where $d$ is the depth, positive in the ocean, measured down from the surface.
@@ -35,7 +39,7 @@ An equation for the temperature $T$ as a function of depth, $d$ is
 \begin{equation}
 \dTdt = \frac {\pa}{\pa d} \left(A_h \frac {\pa T}{\pa d} \right) - \frac 1 {c_p} \frac {\pa I}{\pa d}
 \end{equation}
-where $c_p = 4000$J kg$^{-1}$ $^o$C$^{-1} = 4 \times 10^6$J m$^{-3}$ $^o$C$^{-1}$ is specific heat. 
+where $c_p = 4000$J kg$^{-1}$ $^o$C$^{-1} = 4 \times 10^6$J m$^{-3}$ $^o$C$^{-1}$ is specific heat.
 
 Assume steady state and explore the temperature profiles for various ice concentrations $\beta$, mixing profiles(make sure your $A_h$ does not go negative), light attenuation rates ($\alpha$).
 
@@ -44,7 +48,8 @@ Starting parameter suggestions: $\beta = 0.5$, $\alpha = 1/(10$ m), $h = 10$ m, 
 \noindent{\bf Hand-In:}\\
 p = on paper\\
 e = electronic (email to sallen@eos.ubc.ca)\\
-pe = either paper or electronic pdf files
+pe = either paper or electronic pdf files\\
+Or you can do it all in a python notebook
 \begin{description}
 \item [p] Derivation of the equations you put into your computer model.
 \item [p] A paragraph discussing the method of solution.

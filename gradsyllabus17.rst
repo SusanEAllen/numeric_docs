@@ -127,6 +127,17 @@ PDE’s
 
 -  Lab 10
 
+Smattering of ODE's and PDE's
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Rest of Lab 5
+
+-  Lab 6
+
+- Rest of Lab 7
+
+-  Lab 10
+
 Project
 -------
 
